@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander Watson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexander Watson
+Machine Operator, Project Manager, Head of Logistics.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,16 +13,16 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Working at Rusken Packaging as a Machine Operatior, Heading Customer Service for [GM8.app](https://gm8.app), Partner at [wevape.shop](https://wevape.shop), and Heading Logistic Operation at [weeb.shop](https://weeb.shop)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Customer Care, Logistics and Shipping Operations
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Java Script, Node.js.
 
 
 ## Education
